@@ -39,5 +39,5 @@ PUT https://products-by-weather.herokuapp.com/api/product/5
 to delete specific product:
 DELETE https://products-by-weather.herokuapp.com/api/product/5
 
-**to get product list for current weather conditions in specific in Lithuania enter that city name in City place 
-GET https://products-by-weather.herokuapp.com/api/product/recommended/City**
+**to get product list for current weather conditions in specific in Lithuania enter that city name in Kaunas place 
+GET https://products-by-weather.herokuapp.com/api/product/recommended/Kaunas**
